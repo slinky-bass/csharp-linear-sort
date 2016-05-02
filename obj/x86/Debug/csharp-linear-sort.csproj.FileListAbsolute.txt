@@ -1,0 +1,5 @@
+C:\Sites\csharp-linear-sort\obj\x86\Debug\csharp-linear-sort.csprojResolveAssemblyReference.cache
+C:\Sites\csharp-linear-sort\bin\Debug\csharp-linear-sort.exe
+C:\Sites\csharp-linear-sort\bin\Debug\csharp-linear-sort.pdb
+C:\Sites\csharp-linear-sort\obj\x86\Debug\csharp-linear-sort.exe
+C:\Sites\csharp-linear-sort\obj\x86\Debug\csharp-linear-sort.pdb
